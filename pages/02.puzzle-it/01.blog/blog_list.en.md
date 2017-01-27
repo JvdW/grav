@@ -15,6 +15,9 @@ feed:
     description: 'Puzzle-IT blog'
     limit: 10
 pagination: true
+process:
+    markdown: true
+    twig: true
 ---
 
 {% for p in page.collection %}
