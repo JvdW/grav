@@ -11,4 +11,5 @@ dropcaps:
         first_line: true
 ---
 
-The theme for the Puzzle-IT site has been revamped :-)
+The theme for the Puzzle-IT site has been revamped.
+:-)
