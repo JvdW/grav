@@ -1,5 +1,5 @@
 ---
-title: 'Puzzle-IT 2'
+title: Kaas
 menu: Puzzle-IT
 routeable: false
 ---
